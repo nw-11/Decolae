@@ -1,5 +1,5 @@
 -- =========================================================
--- DADOS DE TESTE (POPULAMENTO) - SISTEMA DECOLAE
+-- DADOS DE TESTE (POVOAMENTO) - SISTEMA DECOLAE
 -- =========================================================
 
 USE decolae;
